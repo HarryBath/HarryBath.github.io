@@ -1,0 +1,54 @@
+:/*Selector {
+	property: value;  
+}*/
+
+
+
+}
+
+.jumbotron {background-color: pink;}
+}
+
+
+body, {background-image: url(backgroundimage2.jpg);
+background-size: cover} 
+
+
+h1 {font-size: 200%}
+
+h1,h2,h3, p,  { color: black;
+	text-align: center;
+	border: 5px solid gold;
+	cursor: pointer;
+	font-style: fantasy;
+}
+
+h2 {text-align: left;
+color: gold;
+font-style: fantasy;
+
+}
+
+p {line-height: 20px;
+font-style: italic;
+font-weight: 900;
+font-size: 125%;
+font-family: fantasy;
+}
+/*
+img { 
+	float: left;  }*/
+
+body {background-image: url(backgroundimage2.jpg);
+background-size: cover} 
+
+iframe { 
+	margin-left: 290px;
+	margin-top: 20px;
+	display: flex;
+	flex-wrap: wrap;
+
+ }
+
+
+}
